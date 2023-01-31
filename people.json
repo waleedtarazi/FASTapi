@@ -1,0 +1,41 @@
+{
+    "people":[
+        {
+            "id": 639665,
+            "age": 32,
+            "gender": "female",
+            "name": "Jamie"
+        },
+        {
+            "id": 630,
+            "age": 26,
+            "gender": "male",
+            "name": "Kendall"
+        },
+        {
+            "id": 63804914314,
+            "age": 74,
+            "gender": "male",
+            "name": "Embry"
+        },
+        {
+            "id": 63209,
+            "age": 54,
+            "gender": "female",
+            "name": "Hildred"
+        },{
+            "id": 6311473078,
+            "age": 32,
+            "gender": "female",
+            "name": "Charity"
+        },
+        {
+            "id": 656842,
+            "age": 24,
+            "gender": "male",
+            "name": "Young"
+        }
+
+
+    ]
+}
